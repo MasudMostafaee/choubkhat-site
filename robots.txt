@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://choubkhat.ir/sitemap.xml
